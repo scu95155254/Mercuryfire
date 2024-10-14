@@ -1,0 +1,9 @@
+/.vs/
+*.csproj.user
+*.user
+/MercuryfireWebApplication/obj/
+/MercuryfireWebApplication/bin/
+/MercuryfireWebApplication/.vs/
+/MercuryfireBackendExamHub/BackendExamHub/obj/
+/MercuryfireBackendExamHub/BackendExamHub/bin/
+/MercuryfireBackendExamHub/BackendExamHub/.vs/
